@@ -16,7 +16,7 @@ Docker image to build and deploy an installation of Omeka_a11y with plugins requ
 
 ### Import items from CSV to OAI
 
-* Go to [http://localhost/Omeka_a11y](http://localhost) and fill out the site form.   You can leave all of the default values populated as they are here, just specify usernames/emails for the super user and admin, and the site name.
+* Go to [http://localhost](http://localhost) and fill out the site form.   You can leave all of the default values populated as they are here, just specify usernames/emails for the super user and admin, and the site name.
 
 * Log into the admin dashboard.  Go to the [Plugins page](http://localhost/admin/plugins) and activate all three plugins.
 
