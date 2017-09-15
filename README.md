@@ -28,5 +28,6 @@ Docker image to build and deploy an installation of Omeka_a11y with plugins requ
     * The identifier column must occur before the thumbnail column.
     * The "file" column must be checked for the thumbnail column.
     * Multi-valued fields are separated by the "|" character. 
+    * Item type should be set to "Still Image" in the Omeka interface if objects are represented by static images.
 
 * Once some items have been added, go to the [OAI-PMH ListRecords endpoint](http://localhost/oai-pmh-repository/request?verb=ListRecords&metadataPrefix=oai_dc) to preview the OAI feed.
